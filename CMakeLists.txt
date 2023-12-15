@@ -149,5 +149,3 @@ if(NADJIEB_MJPEG_STREAMER_Install)
     )
 endif()
 
-add_subdirectory(igl_streamer)
-
