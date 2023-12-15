@@ -148,3 +148,6 @@ if(NADJIEB_MJPEG_STREAMER_Install)
         DESTINATION lib/pkgconfig
     )
 endif()
+
+add_subdirectory(igl_streamer)
+
